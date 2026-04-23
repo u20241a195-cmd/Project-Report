@@ -263,7 +263,7 @@ Ahora sí, comenzamos:
 
   <tr>
     <td colspan="2">
-      <img src="images/EntrevistaCath.png" alt="Entrevista Catherine Villar" width="100%">
+      <img src="images/EntrevistaCath.png" alt="Entrevista Catherine Villar">
     </td>
   </tr>
 
@@ -307,7 +307,7 @@ Ahora sí, comenzamos:
 
   <tr>
     <td colspan="2">
-      <img src="images/EntrevistaGonzalo.png" alt="Entrevista Gonzalo" width="100%">
+      <img src="images/EntrevistaGonzalo.png" alt="Entrevista Gonzalo">
     </td>
   </tr>
 
@@ -352,7 +352,7 @@ Ahora sí, comenzamos:
 
   <tr>
     <td colspan="2">
-      <img src="images/EntrevistaSebas.png" alt="Entrevista Sebastian Curay" width="100%">
+      <img src="images/EntrevistaSebas.png" alt="Entrevista Sebastian Curay">
     </td>
   </tr>
 
@@ -395,7 +395,7 @@ Ahora sí, comenzamos:
 
   <tr>
     <td colspan="2">
-      <img src="images/EntrevistaAntonio.png" alt="Entrevista Antonio Cortez " width="100%">
+      <img src="images/EntrevistaAntonio.png" alt="Entrevista Antonio Cortez ">
     </td>
   </tr>
 
@@ -438,7 +438,7 @@ Ahora sí, comenzamos:
 
   <tr>
     <td colspan="2">
-      <img src="images/EntrevistaPamela.png" alt="Entrevista Sebastian Curay" width="100%">
+      <img src="images/EntrevistaPamela.png" alt="Entrevista Sebastian Curay">
     </td>
   </tr>
 
@@ -497,7 +497,7 @@ Ahora sí, comenzamos:
 
   <tr>
     <td colspan="2">
-      <img src="images/EntrevistaCarlos.png" alt="Entrevista Sebastian Curay" width="100%">
+      <img src="images/EntrevistaCarlos.png" alt="Entrevista Sebastian Curay">
     </td>
   </tr>
 
