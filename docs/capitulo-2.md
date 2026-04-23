@@ -540,11 +540,11 @@ Ahora sí, comenzamos:
 
 ## 2.2.3. Análisis de entrevistas  
 
-**Primer Segmento Objetivo: Usuarios con interés en nutrición personal**  
+#### **Primer Segmento Objetivo: Usuarios con interés en nutrición personal**  
 
 En las entrevistas, el **100% de los entrevistados** ha intentado usar al menos una app de nutrición y la ha abandonado, principalmente por interfaces tediosas o funciones clave bloqueadas por suscripción de pago. La falta de constancia fue identificada como el obstáculo principal por todos, vinculada al estrés y la falta de tiempo en la vida universitaria o laboral.  
 
-**¿Qué dificultades has tenido al intentar seguir una dieta o plan nutricional?**  
+#### **¿Qué dificultades has tenido al intentar seguir una dieta o plan nutricional?**  
 
 El **100% de los entrevistados** mencionó la **falta de constancia** como dificultad central. Sebastián y Gonzalo también señalaron la imposibilidad de calcular con precisión las calorías de los alimentos. Catherine añadió la falta de opciones saludables disponibles y el estrés académico como factores desestabilizadores.  
 
@@ -555,7 +555,7 @@ El **100% de los entrevistados** mencionó la **falta de constancia** como dific
   "/>
 </div>
 
-**¿Has utilizado alguna aplicación o servicio para mejorar tu alimentación? ¿Cómo fue tu experiencia?**  
+#### **¿Has utilizado alguna aplicación o servicio para mejorar tu alimentación? ¿Cómo fue tu experiencia?**  
 
 El **100% de los entrevistados** ha utilizado aplicaciones de nutrición previamente. Sin embargo, el **67% reportó una experiencia negativa**.  
 
@@ -563,9 +563,128 @@ Catherine señaló que las interfaces eran tediosas y repetitivas, lo que la lle
 
 Por otro lado, Gonzalo tuvo una experiencia regular, mencionando que la aplicación utilizada no permitía especificar detalles como gramos exactos ni el tipo de carne, lo que generaba registros poco precisos.  
 
-**CALIFICACIÓN DE EXPERIENCIA PREVIA CON APPS DE NUTRICIÓN**  
+#### **CALIFICACIÓN DE EXPERIENCIA PREVIA CON APPS DE NUTRICIÓN**  
 
 <div align="center">
   <img src="images/Grafico2.png" alt="Gráfico de dificultades" width="100%
   "/>
 </div>
+
+#### **¿Confías en recomendaciones nutricionales automatizadas o prefieres siempre un especialista?**  
+
+El **100% de los entrevistados** prefiere **combinar ambas opciones**.  
+
+Catherine y Sebastián consideran que la inteligencia artificial puede funcionar como una **guía complementaria al especialista**, ya que cada persona presenta necesidades nutricionales distintas.  
+
+Por otro lado, Gonzalo indicó que confiaría más en la automatización por su **rapidez y capacidad de adaptación**, pero reconoce que la nutrición es un tema serio que requiere **respaldo profesional**.  
+
+#### **PREFERENCIA SOBRE FUENTE DE RECOMENDACIONES NUTRICIONALES**  
+
+<div align="center">
+  <img src="images/Grafico3.png" alt="Gráfico de dificultades" width="100%
+  "/>
+</div>
+
+#### **¿Qué características consideras indispensables en una app de nutrición para que realmente la uses?**  
+
+El **100% de los entrevistados** considera indispensable que la aplicación tenga una **interfaz simple y rápida**, así como una **visualización clara de calorías y nutrientes**.  
+
+Asimismo, el **100%** valora la presencia de **recomendaciones personalizadas**, ya que permiten adaptar la experiencia a sus necesidades individuales.  
+
+Por otro lado, el **67%** mencionó la importancia de contar con **mecanismos de motivación integrada**, como recordatorios o seguimiento del progreso, para mantener la constancia en el uso de la aplicación.  
+
+Finalmente, solo Sebastián destacó el **escaneo de código de barras** como una función clave, ya que facilita el registro de alimentos de manera rápida y sin esfuerzo.  
+
+#### **CARACTERÍSTICAS INDISPENSABLES — % DE ENTREVISTADOS QUE LA MENCIONARON** 
+
+<div align="center">
+  <img src="images/Grafico4.png" alt="Gráfico de dificultades" width="100%
+  "/>
+</div>
+
+**Segundo Segmento Objetivo: Empresas que gestionan el bienestar de sus colaboradores**  
+
+En las entrevistas, el **100% de las empresas** gestiona el bienestar de sus colaboradores utilizando **herramientas manuales o básicas**, como Excel, Google Forms u otros métodos sin monitoreo continuo.  
+
+Asimismo, los tres representantes identificaron como principales problemas en su personal:  
+- **Sedentarismo**  
+- **Malos hábitos alimenticios**  
+- **Estrés laboral**  
+
+El **100% de los entrevistados** estaría dispuesto a invertir en **BioTrack**, siempre que la solución demuestre un **impacto claro y medible en la productividad**.
+
+---
+
+**¿Han utilizado alguna herramienta digital para el seguimiento del bienestar? ¿Cómo fue su experiencia?**  
+
+El **33%** utiliza únicamente **Excel** para registros básicos de peso y talla (Geldres).  
+
+Otro **33%** ha probado **encuestas digitales** como Google Forms, obteniendo una experiencia parcial y poco accionable (Beltrán).  
+
+El **33% restante** intentó usar **herramientas digitales especializadas**, pero las consideró complejas y poco adaptadas a sus necesidades (Cortés).  
+
+En general, **ninguna empresa cuenta con una plataforma integral de monitoreo del bienestar**.
+
+---
+
+**HERRAMIENTA DIGITAL ACTUALMENTE USADA PARA SEGUIMIENTO DE BIENESTAR**  
+
+<div align="center">
+  <img src="images/Grafico5.png" alt="Gráfico de dificultades" width="100%
+  "/>
+</div>
+
+**¿Qué problemas han identificado relacionados con la alimentación o salud de su personal?**  
+
+El **100% de las empresas** mencionó el **sedentarismo** como el problema principal en su personal.  
+
+Asimismo, el **100%** señaló la presencia de **malos hábitos alimenticios**, evidenciando una falta de cultura nutricional adecuada.  
+
+El **67% de los entrevistados** identificó **estrés y fatiga**, destacando su impacto directo en la productividad (Cortés y Beltrán).  
+
+Por su parte, Geldres fue el único en detallar el **exceso de sodio** en la alimentación y su relación con la **fatiga física**, además de vincular el **sobrepeso** con una menor producción, tomando como referencia el modelo japonés de gestión.  
+
+**PROBLEMAS DE SALUD IDENTIFICADOS EN EL PERSONAL — % DE EMPRESAS**  
+
+<div align="center">
+  <img src="images/Grafico6.png" alt="Gráfico de dificultades" width="100%
+  "/>
+</div>
+
+**¿Qué dificultades encuentran al implementar programas de bienestar o nutrición?**  
+
+El **100% de las empresas** señaló la **baja participación de los colaboradores** como el principal obstáculo al implementar programas de bienestar.  
+
+Asimismo, el **67%** mencionó la **falta de seguimiento continuo** (Cortés y Beltrán), lo que dificulta mantener la constancia y evaluar el progreso de las iniciativas.  
+
+El **67%** también indicó la **dificultad para medir resultados**, evidenciando la ausencia de herramientas que permitan obtener métricas claras y accionables.  
+
+Por su parte, Geldres destacó específicamente el reto de que el personal **respete las dietas y rutinas recomendadas**, debido a jornadas laborales superiores a 8 horas diarias.  
+
+**PRINCIPALES DIFICULTADES AL IMPLEMENTAR PROGRAMAS DE BIENESTAR — % DE EMPRESAS**  
+
+<div align="center">
+  <img src="images/Grafico7.png" alt="Gráfico de dificultades" width="100%
+  "/>
+</div>
+
+**¿Qué características consideran indispensables en una solución como BioTrack?**  
+
+El **100% de las empresas** coincidió en tres características clave:  
+- **Monitoreo en tiempo real**  
+- **Reportes automatizados**  
+- **Interfaz intuitiva**  
+
+Asimismo, el **67%** considera indispensable garantizar la **seguridad y privacidad de los datos de salud** (Cortés y Beltrán).  
+
+El **67%** también requiere **alertas de riesgo por colaborador**, que permitan identificar situaciones críticas de manera oportuna (Beltrán y Geldres).  
+
+Finalmente, solo Beltrán destacó la necesidad de una **integración directa con sistemas de Recursos Humanos existentes**, para facilitar la gestión organizacional.  
+
+**CARACTERÍSTICAS INDISPENSABLES EN BIOTRACK — % DE EMPRESAS QUE LA MENCIONARON**  
+
+<div align="center">
+  <img src="images/Grafico8.png" alt="Gráfico de dificultades" width="100%
+  "/>
+</div>
+
