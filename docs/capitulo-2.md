@@ -45,8 +45,8 @@
   <td valign="top">Estrategias de marketing</td>
   <td valign="top">Marketing digital, alianzas con empresas, enfoque en salud preventiva, demostraciones del sistema, contenido educativo.</td>
   <td valign="top">Marketing en redes sociales, comunidad fitness, versión gratuita, recomendaciones y retos.</td>
-  <td valign="top">Contenido en redes, influencers de fitness, enfoque en pérdida de peso, planes premium, retos y guías.</td>
-  <td valign="top">Venta de dispositivos, integración app + hardware, retos y logros, comunidad activa, branding en salud y fitness.</td>
+<td valign="top">Contenido en redes, influencers de fitness, enfoque en pérdida de peso, planes premium, retos y guías.</td>  
+    <td valign="top">Venta de dispositivos, integración app + hardware, retos y logros, comunidad activa, branding en salud y fitness.</td>
 </tr>
   <tr>
     <td valign="top">Estrategias de marketing</td>
