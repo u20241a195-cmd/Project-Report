@@ -41,13 +41,13 @@
     <td valign="top">Monitoreo con dispositivos wearables, datos en tiempo real, seguimiento de actividad física y signos vitales, métricas automáticas, enfoque en salud física.</td>
   </tr>
   <tr>
-    <td rowspan="2" valign="top">Perfil de Marketing</td>
-    <td valign="top">Mercado objetivo</td>
-    <td valign="top">Pacientes, usuarios de salud digital, empresas con programas de bienestar.</td>
-    <td valign="top">Usuarios fitness, personas que controlan calorías.</td>
-    <td valign="top">Personas que buscan bajar de peso, usuarios de dietas.</td>
-    <td valign="top">Usuarios de wearables, personas activas y fitness.</td>
-  </tr>
+  <td rowspan="2" valign="top">Perfil de Marketing</td>
+  <td valign="top">Estrategias de marketing</td>
+  <td valign="top">Marketing digital, alianzas con empresas, enfoque en salud preventiva, demostraciones del sistema, contenido educativo.</td>
+  <td valign="top">Marketing en redes sociales, comunidad fitness, versión gratuita, recomendaciones y retos.</td>
+  <td valign="top">Contenido en redes, influencers de fitness, enfoque en pérdida de peso, planes premium, retos y guías.</td>
+  <td valign="top">Venta de dispositivos, integración app + hardware, retos y logros, comunidad activa, branding en salud y fitness.</td>
+</tr>
   <tr>
     <td valign="top">Estrategias de marketing</td>
     <td valign="top">Marketing digital, alianzas con empresas, enfoque en salud preventiva, demostraciones del sistema, contenido educativo.</td>
