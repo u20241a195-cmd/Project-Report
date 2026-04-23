@@ -477,18 +477,6 @@ Ahora sí, comenzamos:
   </tr>
 </table>
 
-<tr>
-    <td colspan="2">
-      <strong>Resumen:</strong><br><br>
-
-    El entrevistado organiza su alimentación semanal junto a su familia, lo que le permite tener cierto orden; sin embargo, presenta dificultades al momento de medir con precisión las calorías y nutrientes de los alimentos que consume. Ha utilizado aplicaciones previamente, pero considera que estas son poco precisas y limitadas, lo que reduce su utilidad. 
-    
-    Destaca la importancia de llevar un seguimiento de su salud, aunque reconoce que no lo realiza de manera constante. Se siente motivado por mejorar su bienestar físico, pero se desmotiva ante dietas estrictas. Considera que una plataforma con monitoreo en tiempo real sería muy útil, especialmente si automatiza el registro de información. 
-    
-    Asimismo, le gustaría visualizar datos como calorías, nutrientes, evolución de peso y recibir recomendaciones personalizadas. Está dispuesto a pagar por una herramienta siempre que este aporte valor real. Finalmente, resalta que una aplicación debe ser intuitiva, clara y no saturar al usuario con demasiada información para asegurar su uso continuo. 
-  </tr>
-</table>
-
  <table>
   <tr>
     <th colspan="2">Entrevista 3:</th>
